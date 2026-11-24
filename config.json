@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-database",
+      "title": "FastAPI with SQLite Database",
+      "description": "Connect a FastAPI REST API to SQLite and implement persistent CRUD operations",
+      "path": "assignments/fastapi-sqlite-database",
+      "dueDate": "2026-12-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
