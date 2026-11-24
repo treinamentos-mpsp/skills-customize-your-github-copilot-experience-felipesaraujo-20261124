@@ -26,10 +26,3 @@ Os cabeçalhos das seções devem usar EXATAMENTE o mesmo texto do template, inc
    - Forneça exemplos de entrada/saída em blocos de código se útil.
 
 Não inclua seções extras a menos que explicitamente especificado.
-
-## 3. Boas Práticas de Redação
-
-- Use linguagem clara e objetiva.
-- Evite jargões desnecessários.
-- Prefira frases curtas e diretas.
-- Revise o conteúdo para evitar erros gramaticais e de digitação.
